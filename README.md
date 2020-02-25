@@ -1,6 +1,6 @@
 # TEKISUTO - Text Search for Culture Analytics #
 
-
+Basic functionalities for reading, filtering and searching text data.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-For running in virtual environment (recommended) and assuming python3.6+ is installed.
+For running in virtual environment (recommended) and assuming python3.7+ is installed.
 
 ```
 sudo pip3 install virtualenv
@@ -21,7 +21,7 @@ source venv/bin/activate
 Clone repository and install requirements
 
 ```
-git clone https://github.com/knielbo/kartina.git
+git clone https://github.com/knielbo/tekisuto.git
 pip install requirements.txt
 ```
 
@@ -75,5 +75,3 @@ Kristoffer L. Nielbo
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-Adrian Rosebrock, pyimagesearch
