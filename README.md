@@ -22,7 +22,7 @@ Clone repository and install requirements
 
 ```
 git clone https://github.com/knielbo/tekisuto.git
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 To run train model and generate graph
